@@ -10,7 +10,7 @@ I am a software engineer with a focus on Web3.0 projects. I love working with So
 
 - 🌍  I'm based in Clinton Twp, MI, United States.
 - ✉️  You can contact me at [ross4467@gmail.com](mailto:ross4467@gmail.com)
-- 🤝  I'm open to collaborating on Web2.0 & Web3.0 Projects.
+- 🤝  I'm open to work on Web2.0 & Web3.0 Projects.
 - ⚡  I have ambition to learn new things continuously.
 
 ### Skills
