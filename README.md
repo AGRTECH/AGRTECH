@@ -3,7 +3,7 @@
 ## Blockchain and Web3.0 Enthusiast
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ross-188267231/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-site-rouge-nine.vercel.app/)
-[![Discord Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/AGR_IV#1586)
+[![Discord Badge](https://img.shields.io/badge/-Discord-00acee?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/AGR_IV#1586)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AGR)
 
 I am a software engineer with a focus on Web3.0 projects. I love working with Solidity, Truffle, Hardhat, Web3.js, Ethers.js, Javascript, React / Redux, and CSS.
