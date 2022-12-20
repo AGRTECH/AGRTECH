@@ -2,7 +2,7 @@
 
 ## Blockchain and Web3.0 Enthusiast
 
-I've been focusing on Blockchain & Web3.0 field after switching my career from a full stack Web2.0 developer. I love working with Solidity, Truffle, Hardhat, Web3.js, Ethers.js, MERN stack, Microservices, Docker, K8s and AWS.
+I am a software engineer with a focus on Web3.0 projects. I love working with Solidity, Truffle, Hardhat, Web3.js, Ethers.js, Javascript, React / Redux, and CSS.
 
 - 🌍  I'm based in Clinton Twp, MI, United States.
 - ✉️  You can contact me at [ross4467@gmail.com](mailto:ross4467@gmail.com)
